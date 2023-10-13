@@ -1,0 +1,12 @@
+{
+  "ID":"A2A3C33B033D333AA66AA0C79D6C2A6H",   //Plugin ID，32 bit UUID
+  "ActionKeyword":"br",                     //Plugin default action keyword
+  "Name":"Brightness Clickmonitor Control",                              //Plugin name
+  "Description":"Wox Package Management",    //Plugin description
+  "Author":"Beriktabe",                     //Plugin Author
+  "Version":"1.0.0",                         //Plugin version，must be x.x.x format
+  "Language":"python",                       //Plugin language，we support csharp,python and executable now
+  "Website":"no web site",         //Plugin website or author website
+  "IcoPath": "Images\\pic.png",              //Plugin icon, relative path to the pluign folder
+  "ExecuteFileName":"main.py"   //Execution entry. Dll name for c# plugin, and python file for python plugin
+}
